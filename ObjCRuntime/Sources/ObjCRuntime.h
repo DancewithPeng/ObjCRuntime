@@ -16,4 +16,4 @@ FOUNDATION_EXPORT const unsigned char ObjCRuntimeVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <ObjCRuntime/PublicHeader.h>
 
-#import <ObjCRuntime/MethodExchange.h>
+#import "MethodExchange.h"
