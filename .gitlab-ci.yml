@@ -1,0 +1,21 @@
+stages:
+  - lint
+  - push-podspec
+
+variables:
+  LC_ALL: "en_US.UTF-8"
+  LANG: "en_US.UTF-8"
+
+# lint:
+#   stage: lint
+#   script:
+#     - swiftlint lint
+#   only:
+#     - merge_requests
+
+push-podspec:
+  stage: push-podspec 
+  script:
+    - ./push-podspec.sh
+  only: 
+    - master    
