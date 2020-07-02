@@ -163,7 +163,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1030;
-				ORGANIZATIONNAME = "深圳可飞猪科技有限公司";
+				ORGANIZATIONNAME = "dancewithpeng@gmail.com";
 				TargetAttributes = {
 					6E6C731A2303D54A00B15E18 = {
 						CreatedOnToolsVersion = 10.3;
