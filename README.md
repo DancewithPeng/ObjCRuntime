@@ -5,7 +5,7 @@
 ## 导入
 
 ```ruby
-pod 'DPObjCRuntime', '~> 1.0'
+pod 'DPObjCRuntime', '~> 1.0.0'
 ```
 
 
